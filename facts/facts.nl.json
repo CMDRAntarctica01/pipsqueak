@@ -1,5 +1,9 @@
 {
   "nl": {
+    "xmodules": {"author": "Antarctica01", "fact": "Om de modules uit te schakelen, ga je naar het RECHT paneel (standaard 'X + D-pad rechts'), schakel je over naar 'Modules (standaard toets 'RB'), selecteer je alle Modules en schakel je deze uit. (Je kan de 'Power plant' niet uitschakelen en de Module 'Life Support' moet je NIET uitschakelen)",
+    "pcmodules": {"author": "Antarctica01", "fact": "Om de modules uit te schakelen, ga je naar het RECHTER paneel (standaard toets '4'), schakel je over naar 'Modules' (standaard toets 'e' of 'q'), selecteer je elke Module en schakel je deze uit. (Je kan de 'Power plant' niet uitschakelen en de Module 'Life Support' moet je NIET uitschakelen)",
+    "multi": {"author": "Antarctica01", "fact": "Negeer aub alle berichten waar jouw naam NIET in staat, in de meeste gevallen zijn ze niet aan jou gericht! Regelmatig zijn we met meerdere reddingsoperaties bezig, dus niet alle berichten zijn aan jouw gericht !",
+    "crinst": {"author": "Antarctica01", "fact": "Wanneer het van je gevraagd wordt (NOG NIET !), ga je naar OPEN PLAY, schakel je je WING BEACON aan en nodig je alle aan JOU toegewezen Fuel Rats toe aan een WING"},
     "xbeacon": {"author": "Beumer", "fact": "Om je 'beacon' te activeren, houd je X knop ingedrukt, en druk je op 'rechts' op de D-Pad. Druk nu op LB, selecteer 'beacon', en kies de optie 'wing'."},
     "pcwing": {"author": "Beumer", "fact": "Om iemand aan je 'Wing' toe te voegen, ga je naar het communicatie scherm (standaard toets 2), en druk je op ESC om uit het tekstvak te gaan. Navigeer nu naar het tweede tabblad (standaard toets E), en selecteer de CMDR die je aan je 'wing' wil toevoegen. Selecteer nu 'Invite to wing'."},
     "pcbeacon": {"author": "Beumer", "fact": "Om je 'beacon' te activeren, ga je naar het rechter scherm (standaard toets 4), en navigeer je naar het tabblad 'Functions' (standaard toets Q). Selecteer 'beacon', en kies de optie 'wing'."},
